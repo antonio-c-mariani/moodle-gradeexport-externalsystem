@@ -1,0 +1,9 @@
+.gradeexport_externalsystem_align_left {
+    float: left;
+    margin-right: 5px;
+}
+
+.gradeexport_externalsystem_align_right {
+    float: right;
+    margin-left: 5px;
+}
